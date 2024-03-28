@@ -1,12 +1,8 @@
 # GitHub issues resolved for v4.1.0
 
-As part of this release 424 [issues](https://github.com/modelica/ModelicaStandardLibrary/milestone/61) (including 319 pull requests (PR)) were closed.
+As part of this release 426 [issues](https://github.com/modelica/ModelicaStandardLibrary/milestone/61) (including 320 pull requests (PR)) were closed.
 
 ## --MSL-general--
-
-### Enhancements
-
-* [\#4094](https://github.com/modelica/ModelicaStandardLibrary/pull/4094) (PR) First figure
 
 ### Documentation
 
@@ -71,6 +67,7 @@ As part of this release 424 [issues](https://github.com/modelica/ModelicaStandar
 ### Examples
 
 * [\#3727](https://github.com/modelica/ModelicaStandardLibrary/issues/3727) Value of motor.uniformNoise.localSeed in ActuatorWithNoise
+* [\#4094](https://github.com/modelica/ModelicaStandardLibrary/pull/4094) (PR) Add a first figure to Modelica.Blocks.Examples.PID_Controller
 
 ### Documentation
 
