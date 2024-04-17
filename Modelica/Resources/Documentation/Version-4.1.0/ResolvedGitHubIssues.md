@@ -1,6 +1,6 @@
 # GitHub issues resolved for v4.1.0
 
-As part of this release 414 [issues](https://github.com/modelica/ModelicaStandardLibrary/milestone/61) (including 312 pull requests (PR)) were closed.
+As part of this release 426 [issues](https://github.com/modelica/ModelicaStandardLibrary/milestone/61) (including 320 pull requests (PR)) were closed.
 
 ## --MSL-general--
 
@@ -50,6 +50,7 @@ As part of this release 414 [issues](https://github.com/modelica/ModelicaStandar
 * [\#3878](https://github.com/modelica/ModelicaStandardLibrary/issues/3878) Unit-checking using Gain and LimIntegrator-blocks
 * [\#4045](https://github.com/modelica/ModelicaStandardLibrary/pull/4045) (PR) Fix startTime of (SignalPWM) -&gt; ZeroOrderHold 
 * [\#4189](https://github.com/modelica/ModelicaStandardLibrary/pull/4189) (PR) Avoid having both start-value and initial equation
+* [\#4345](https://github.com/modelica/ModelicaStandardLibrary/pull/4345) (PR) Consider shiftTime for verbose extrapolation in CombiTimeTable
 
 ### Enhancements
 
@@ -70,6 +71,7 @@ As part of this release 414 [issues](https://github.com/modelica/ModelicaStandar
 ### Examples
 
 * [\#3727](https://github.com/modelica/ModelicaStandardLibrary/issues/3727) Value of motor.uniformNoise.localSeed in ActuatorWithNoise
+* [\#4094](https://github.com/modelica/ModelicaStandardLibrary/pull/4094) (PR) Add a first figure to Modelica.Blocks.Examples.PID_Controller
 
 ### Documentation
 

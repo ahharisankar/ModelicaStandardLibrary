@@ -2478,7 +2478,7 @@ versions 4.0.0 will work without any changes also with version 4.1.0.
 Short Overview:
 </p>
 <ul>
-<li>About <a href=\"modelica://Modelica/Resources/Documentation/Version-4.1.0/ResolvedGitHubIssues.html\">414 issues (including 312 pull requests)</a> have been addressed for this release.</li>
+<li>About <a href=\"modelica://Modelica/Resources/Documentation/Version-4.1.0/ResolvedGitHubIssues.html\">426 issues (including 320 pull requests)</a> have been addressed for this release.</li>
 <li>This version is based on the recent Modelica language standard version 3.6.</li>
 </ul>
 <p>
@@ -9356,7 +9356,7 @@ Icon(coordinateSystem(extent={{-100.0,-100.0},{100.0,100.0}}), graphics={
     smooth=Smooth.Bezier),
   Ellipse(
     origin={40.8208,-37.7602},
-    fillColor={161,0,4},
+    fillColor={200,16,46},
     pattern=LinePattern.None,
     fillPattern=FillPattern.Solid,
     extent={{-17.8562,-17.8563},{17.8563,17.8562}})}),
